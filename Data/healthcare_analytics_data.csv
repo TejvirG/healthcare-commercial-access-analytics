@@ -1,0 +1,13 @@
+Month,Region,Product,Patients,Claims_Submitted,Claims_Approved,Sales,Avg_Days_to_Access
+Jan,North,A,220,190,165,145000,8
+Jan,South,A,180,155,125,98000,12
+Jan,West,B,260,230,205,175000,7
+Feb,North,A,240,205,180,155000,9
+Feb,South,B,170,145,115,92000,14
+Feb,West,B,280,250,225,190000,8
+Mar,North,B,250,220,195,165000,7
+Mar,South,A,190,160,130,105000,13
+Mar,West,A,300,265,235,210000,6
+Apr,North,B,270,235,210,180000,8
+Apr,South,B,200,175,145,118000,12
+Apr,West,A,310,275,250,225000,6
